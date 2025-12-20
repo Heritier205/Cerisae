@@ -1,3 +1,8 @@
+ADAKANOU Koffi Heritier 
+KUDAWOO kate
+
+
+
 Ce module implémente la gestion complète des types d’emplacement à l’aide d’un fichier séquentiel en langage C.
 Il fournit des fonctionnalités de création, lecture, modification et suppression (CRUD) des types d’emplacement, en assurant la persistance des données dans un fichier texte structuré.
 
